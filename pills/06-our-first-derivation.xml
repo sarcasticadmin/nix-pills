@@ -245,8 +245,8 @@
   <title>What's in a derivation set</title>
 
   <para>
-    I find useful to inspect the returned value from the derivation function for
-    you. First of all, the returned value is a plain set:
+    It is useful to start by inspecting the return value from the derivation function.
+    In this case, the returned value is a plain set:
   </para>
 
   <screen><xi:include href="./06/inspect-values.txt" parse="text" /></screen>
